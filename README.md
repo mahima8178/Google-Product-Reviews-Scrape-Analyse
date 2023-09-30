@@ -1,6 +1,6 @@
 # Google-Product-Reviews-Scrape-Analyse
 App to Scrape Google for reviews of an item (product, movie, etc.) and runs sentiment analysis on the result.
-## What it uses
+## Tools
  - *Huggingface* for sentiment analysis
  - AutoTokenizer, AutoModelForSequenceClassification for the sentiment analysis pipeline
     - Uses `LiYuan/amazon-review-sentiment-analysis` for 1 - 5 star rating
